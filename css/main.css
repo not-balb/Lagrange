@@ -1,9 +1,10 @@
 /*
   Base
 */
+@include{https://fonts.googleapis.com/css?family=Vollkorn}
 
 body {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "Vollkorn", "PT Serif", Georgia, "Times New Roman", serif;
   font-size: 18px;
   color: #515151;/*#3A3A3A;/*rgba(0,0,0,.8);/*#666;*/
   line-height: 1.75rem;
@@ -262,6 +263,7 @@ blockquote p {
   font-size: 1rem;
 }
 
+
 @media (max-width: 30em) {
   .social-icons {
     float: left;
@@ -447,4 +449,11 @@ pre {
 
 .fa-codepen:hover {
 	color: black;
+}
+
+#navlist li
+{
+display: inline;
+list-style-type: none;
+padding-right: 20px;
 }

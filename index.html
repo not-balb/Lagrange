@@ -12,7 +12,7 @@ title: Home
     <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/images/{{ post.image.teaser }}"></a>
   {% endif %}
   <p>
-    {{ post.content | strip_html | truncate: 350 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
+    {{ post.content | strip_html | truncate: 350 }} <a href="{{ site.github.url }}{{ post.url }}">Mehr</a>
     <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
   </p>
 </div>
@@ -33,3 +33,15 @@ title: Home
   {% endif %}
 
 </div>
+
+<div class="pers-list">
+  <ul>
+    <li><a href="Person">{{ site.github.url }}/menu/dell-anno/person</a></li>
+    <li><a href="Teilprojekt">{{ site.github.url }}/menu/dell-anno/projekt</a></li>
+  </ul>
+</div>
+
+<div class="menu-content">
+<ul>
+ [Person]({{ site.github.url }}/menu/dell-anno/person)
+* [Teilprojekt]({{ site.github.url }}/menu/dell-anno/projekt)
