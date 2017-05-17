@@ -3,7 +3,7 @@ title:               Theorie der Prosa
 tagline:             Uni Basel
 description:
 baseurl:            "/Lagrange"
-url:                #"https://not-balb.github.io"
+url:                "localhost:4000"
 github:
   url:               #"https://not-balb.github.io/Lagrange"
 author:
