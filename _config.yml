@@ -1,4 +1,5 @@
 # Site Settings
+
 title:               Theorie der Prosa
 tagline:             Uni Basel
 description:
@@ -9,11 +10,11 @@ github:
 author:
   name:              "Jodok Trösch"
   email:             "jodok.troesch@unibas.ch"
-#  twitter:           "paululele"
-#  instagram:         "paululele"
+#  twitter:           "theorie-der-prosa"
+#  instagram:         ""
   github:            "not-balb"
   facebook:          "jodok.troesch"
-#  linkedin:          "lenpaul"
+#  linkedin:          ""
 navigation:
 - title: Projekt
   url: /about
