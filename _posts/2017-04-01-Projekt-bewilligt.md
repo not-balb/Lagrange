@@ -2,7 +2,7 @@
 layout: post
 title: "Prosa-Projekt bewilligt!"
 categories: journal
-tags: [documentation,sample]
+tags: [ankündigung, SNF]
 image:
   feature: computer.jpg
   teaser: computer-teaser.jpg
