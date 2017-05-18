@@ -8,11 +8,11 @@ menu:
  - {name: 'Projekt', url: '/about'}
  - {name: 'News', url: '/writing'}
  - {name: 'Mitarbeitende', url: '/team'}
- - {name. 'Kontakt', url: '/contact'}
+ - {name: 'Kontakt', url: '/contact'}
 
 social:
-- {icon: 'github', link: 'https://www.github.com/lenpaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'github', link: 'https://www.github.com/not-balb'}
+- {icon: 'twitter', link: 'https://twitter.com/theorie-der-prosa'}
+# - {icon: 'instagram', link: 'https://instagram.com/paululele'}
+# - {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/'}
+- {icon: 'envelope', link: 'mailto:not.balb@gmail.com'}

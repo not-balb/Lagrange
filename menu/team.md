@@ -38,7 +38,7 @@ Das Promotionsprojekt versucht, durch eine Rekonstruktion verschiedener Digressi
 ### Jodok Trösch
 *Übersetzung als wilde Semiose. Johann Fischart und Arno Schmidt.*
 
-Anhand von Fischarts Geschichtklitterung (1590) soll ein Konzept von ›Übersetzung‹ entwickelt werden, das sich gegenüber den Restriktionen des traditionellen Übersetzungshandwerks durch unbegrenzte und wilde Semiose (Peirce/Assmann) auszeichnet.1 Ein solches Schreiben wird als subversiv bezüglich des ursprünglichen Autors wie des Lesers und als parasitär (in Sinne von Serres) gegenüber der Vorlage ausgewiesen. Diese Form der Übersetzung stellt ein spezifisches Verfahren der Prosaproduktion dar. In einem zweiten Teil wird versucht, diese Schreibkonstellation in historischer und systematischer Weise zu verstehen und in transformierter Form in der Moderne auszumachen. Arno Schmidt soll in diesem Zusammenhang exemplarisch untersucht werden.
+Anhand von Fischarts Geschichtklitterung (1590) soll ein Konzept von ›Übersetzung‹ entwickelt werden, das sich gegenüber den Restriktionen des traditionellen Übersetzungshandwerks durch unbegrenzte und wilde Semiose (Peirce/Assmann) auszeichnet. Ein solches Schreiben wird als subversiv bezüglich des ursprünglichen Autors wie des Lesers und als parasitär (in Sinne von Serres) gegenüber der Vorlage ausgewiesen. Diese Form der Übersetzung stellt ein spezifisches Verfahren der Prosaproduktion dar. In einem zweiten Teil wird versucht, diese Schreibkonstellation in historischer und systematischer Weise zu verstehen und in transformierter Form in der Moderne auszumachen. Arno Schmidt soll in diesem Zusammenhang exemplarisch untersucht werden.
 
 <div id="navcontainer">
   <ul id="navlist">
@@ -50,9 +50,9 @@ Anhand von Fischarts Geschichtklitterung (1590) soll ein Konzept von ›Überset
 ### Ralf Simon
 Monographie: *Theorie der Prosa*, Projektleiter
 
+
 <div id="navcontainer">
   <ul id="navlist">
-    <li><a href="{{ site.github.url }}/menu/simon/person">Person</a></li>
-    <li><a href="{{ site.github.url }}/menu/simon/projekt">Teilprojekt</a></li>
+    <li><a href="https://germa.unibas.ch/seminar/mitarbeitende/profil/profil/person/simon-1/">Profil</a></li>
   </ul>
 </div>

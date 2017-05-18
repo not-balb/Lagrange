@@ -1,14 +1,16 @@
 ---
 layout: post
 title: "Prosa-Projekt bewilligt!"
+author: Jodok Trösch
 categories: journal
 tags: [ankündigung, SNF]
 image:
-  feature: computer.jpg
-  teaser: computer-teaser.jpg
+  feature: book_comp.jpg
+  teaser: book_comp-teaser.jpg
   credit: Death to Stock Photo
   creditlink: ""
 ---
 
-Das ist schon ziemlich geil, dass uns der SNF grade aufs erste Mal finanziert hat.
-Was soll man da schon sagen. Wir sind einfach die Besten.
+Der Schweizerische Nationalfonds hat entschieden: Unser Projekt *Theorie der Prosa* wurde bewilligt. Der SNF unterstützt das Projekt über 4 Jahre und finanziert die Mitarbeiterstellen der drei Teilprojekte. Darüber hinaus ermöglicht er die  Veranstaltung einer Konferenz zur Prosatheorie im Jahr 2020.
+
+Wir sind äusserst glücklich über diesen Entscheid, der es uns erlaubt, uns voller Enthusiasmus in die Forschung zu stürzen.
