@@ -5,10 +5,10 @@ author:
   twitter:  theorie-der-prosa
 
 menu:
- - {name: 'Projekt', url: '/about'}
- - {name: 'News', url: '/writing'}
- - {name: 'Mitarbeitende', url: '/team'}
- - {name: 'Kontakt', url: '/contact'}
+ - {name: 'Projekt', url: 'about'}
+ - {name: 'News', url: 'writing'}
+ - {name: 'Mitarbeitende', url: 'team'}
+ - {name: 'Kontakt', url: 'contact'}
 
 social:
 - {icon: 'github', link: 'https://www.github.com/not-balb'}
