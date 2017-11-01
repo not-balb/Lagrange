@@ -1,11 +1,6 @@
 ---
 layout: page-pic
 title: Sina Dell'Anno – Publikationen
-image:
-  feature: cutting.jpg
-  teaser: cutting-teaser.jpg
-  credit: Death to Stock Photo
-  creditlink: ""
 ---
 
 ## Artikel und Rezensionen

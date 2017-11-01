@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prosa-Projekt bewilligt!"
+title: "Prosa-Projekt bewilligt"
 author: "Jodok Trösch, Sina Dell'Anno und Achim Imboden"
 categories: journal
 tags: [ankündigung, SNF]

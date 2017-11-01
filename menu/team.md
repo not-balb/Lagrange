@@ -2,9 +2,9 @@
 layout: page-pic
 title: Mitarbeitende
 image:
-  feature: cutting.jpg
-  teaser: cutting-teaser.jpg
-  credit: Death to Stock Photo
+  feature: group.jpg
+  teaser: group.jpg
+  credit: Achim Imboden
   creditlink: ""
 ---
 ### Sina Dell’Anno
@@ -17,7 +17,7 @@ Das Teilprojekt versucht, der wilden Mischförmigkeit und (inter)textuellen Hype
 <div id="navcontainer">
   <ul id="navlist">
     <li><a href="{{ site.github.url }}/menu/dell-anno/person">Person</a></li>
-    <li><a href="{{ site.github.url }}/menu/dell-anno/projekt">Teilprojekt</a></li>
+    <li><a href="{{ site.github.url }}/menu/dell-anno/publ">Publikationen</a></li>
   </ul>
 </div>
 
@@ -31,24 +31,24 @@ Das Promotionsprojekt versucht, durch eine Rekonstruktion verschiedener Digressi
 <div id="navcontainer">
   <ul id="navlist">
     <li><a href="{{ site.github.url }}/menu/imboden/person">Person</a></li>
-    <li><a href="{{ site.github.url }}/menu/imboden/projekt">Teilprojekt</a></li>
+    <li><a href="{{ site.github.url }}/menu/imboden/publ">Publikationen</a></li>
   </ul>
 </div>
 
 ### Jodok Trösch
 *Übersetzung als wilde Semiose. Johann Fischart und Arno Schmidt.*
 
-Anhand von Fischarts Geschichtklitterung (1590) soll ein Konzept von ›Übersetzung‹ entwickelt werden, das sich gegenüber den Restriktionen des traditionellen Übersetzungshandwerks durch unbegrenzte und wilde Semiose (Peirce/Assmann) auszeichnet. Ein solches Schreiben wird als subversiv bezüglich des ursprünglichen Autors wie des Lesers und als parasitär (in Sinne von Serres) gegenüber der Vorlage ausgewiesen. Diese Form der Übersetzung stellt ein spezifisches Verfahren der Prosaproduktion dar. In einem zweiten Teil wird versucht, diese Schreibkonstellation in historischer und systematischer Weise zu verstehen und in transformierter Form in der Moderne auszumachen. Arno Schmidt soll in diesem Zusammenhang exemplarisch untersucht werden.
+Es soll Konzept von ›Übersetzung‹ entwickelt werden, das sich gegenüber den Restriktionen des traditionellen Übersetzungshandwerks durch unbegrenzte und wilde Semiose auszeichnet und  ein spezifisches Verfahren der Prosaproduktion dar. In einem zweiten Teil wird versucht, diese Schreibkonstellation in historischer und systematischer Weise zu verstehen und in transformierter Form in der Moderne auszumachen. Arno Schmidt soll in diesem Zusammenhang exemplarisch untersucht werden.
 
 <div id="navcontainer">
   <ul id="navlist">
     <li><a href="{{ site.github.url }}/menu/troesch/person">Person</a></li>
-    <li><a href="{{ site.github.url }}/menu/troesch/projekt">Teilprojekt</a></li>
+    <li><a href="{{ site.github.url }}/menu/troesch/publ">Publikationen</a></li>
   </ul>
 </div>
 
 ### Ralf Simon
-Monographie: *Theorie der Prosa*, Projektleiter
+Monographie: *Theorie der Prosa*. Projektleitung
 
 
 <div id="navcontainer">
