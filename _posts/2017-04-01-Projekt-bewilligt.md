@@ -11,6 +11,8 @@ image:
   creditlink: ""
 ---
 
-Der Schweizerische Nationalfonds hat entschieden: Unser Projekt *Theorie der Prosa* wurde bewilligt. Der SNF unterstützt das Projekt über 4 Jahre und finanziert die Mitarbeiterstellen der drei Teilprojekte. Darüber hinaus ermöglicht er die  Veranstaltung einer Konferenz zur Prosatheorie im Jahr 2020.
+Der Schweizerische Nationalfonds hat entschieden: Unser Projekt *Theorie der Prosa* wurde bewilligt. Der SNF 
+unterstützt das Projekt über 4 Jahre und finanziert die Mitarbeiterstellen der drei Teilprojekte. Darüber hinaus wird  
+die Veranstaltung einer Konferenz zur Prosatheorie im Jahr 2020 ermöglicht.
 
 Wir sind äusserst glücklich über diesen Entscheid, der es uns erlaubt, uns voller Enthusiasmus in die Forschung zu stürzen.
