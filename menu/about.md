@@ -2,6 +2,8 @@
 layout: page
 title: Projekt
 ---
+*Das Projekt "Theorie der Prosa" unter der Leitung von Prof. Dr. Ralf Simon wird vom Schweizerischen Nationalfonds (SNF) für eine Laufzeit von April 2017 bis März 2021 finanziert.*
+
 Während Beiträge zur Dichtungstheorie (Poetik) Bibliotheken
 füllen, existiert für die Prosa noch keine Theorie. In dem Projekt wird
 die erstmals gestellte Frage nach der Theorie der Prosa mit

@@ -1,12 +1,21 @@
 ---
 layout: page-pic
-title: Mitarbeitende
-image:
-  feature: group.jpg
-  teaser: group.jpg
-  credit: Achim Imboden
-  creditlink: ""
+title: Projektleitung
+
 ---
+
+### Prof. Dr. Ralf Simon
+
+<div id="navcontainer">
+  <ul id="navlist">
+    <li><a href="https://germa.unibas.ch/seminar/mitarbeitende/profil/profil/person/simon-1/">Profil</a></li>
+  </ul>
+</div>
+
+# Mitarbeitende
+
+![](../images/group.jpg)
+
 ### Sina Dell’Anno
 
 *Satura als zentrales Prinzip der Prosa.*
@@ -44,15 +53,5 @@ Es soll Konzept von ›Übersetzung‹ entwickelt werden, das sich gegenüber de
   <ul id="navlist">
     <li><a href="{{ site.github.url }}/menu/troesch/person">Person</a></li>
     <li><a href="{{ site.github.url }}/menu/troesch/publ">Publikationen</a></li>
-  </ul>
-</div>
-
-### Ralf Simon
-Monographie: *Theorie der Prosa*. Projektleitung
-
-
-<div id="navcontainer">
-  <ul id="navlist">
-    <li><a href="https://germa.unibas.ch/seminar/mitarbeitende/profil/profil/person/simon-1/">Profil</a></li>
   </ul>
 </div>
